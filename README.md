@@ -8,15 +8,15 @@ This is an ESP32 wireless pentesting device that generates 2.4GHz signals at var
 
 ### Order my PCBs from other projects from PCBWay & get a $10 coupon ^_^ : https://pcbway.com/g/87Pi52
 
-<img src="image/device1.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device2.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device3.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device4.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device5.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device6.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device7.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device8.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
-<img src="image/device9.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device1.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device2.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device3.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device4.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device5.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device6.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device7.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device8.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
+<img src="img/device9.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
  
  **WARNING!!! JAMMING IS ILLEGAL**
  ---
