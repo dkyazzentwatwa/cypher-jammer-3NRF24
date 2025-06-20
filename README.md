@@ -55,6 +55,14 @@ RF24 radio(27, 15, 16000000);   // Radio 1
 RF24 radio2(26, 25, 16000000);  // Radio 2
 RF24 radio3(17, 5, 16000000);   // Radio 3
 
+// Buttons
+#define UP_BUTTON_PIN 14
+#define DOWN_BUTTON_PIN 12
+#define SELECT_BUTTON_PIN 13
+
+// SSD1306 .96 128x64 Display
+SCL = 22
+SDA = 21
 ### LED PIN (OPTIONAL)
 - `PIN 16 OF YOUR ESP32 `
 ---
